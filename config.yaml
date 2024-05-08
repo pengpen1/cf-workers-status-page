@@ -34,6 +34,6 @@ monitors:
 
   - id: blog-cloudflare-com
     name: The Cloudflare Blog
-    url: 'https://blog.cloudflare.com/'
+    url: 'https://pengpen1.github.io/'
     method: GET
     expectStatus: 200
